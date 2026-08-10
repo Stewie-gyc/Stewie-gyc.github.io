@@ -1,0 +1,15 @@
+site_name: 我的网站名称
+site_description: 一个用 MkDocs 搭建的个人网站
+
+theme:
+  name: material
+  language: zh
+  palette:
+    scheme: default
+    primary: white
+
+nav:
+  - 主页: index.md
+  - 课程: course/index.md
+  - 友链: friends/index.md
+  - 关于: about/index.md
