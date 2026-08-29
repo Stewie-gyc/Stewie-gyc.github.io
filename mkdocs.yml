@@ -43,8 +43,15 @@ copyright: © 2026 Stewie
 
 nav:
   - 主页: index.md
+  - 目标: goals/index.md
+  - 生活记录:
+      - 生活随笔: life/index.md
+      - 随手记: life/daily.md
+  - 成长记录:
+      - 进度: growth/index.md
+      - 复盘: growth/review.md
   - 学习笔记:
       - 笔记首页: course/index.md
       - OpenFOAM 入门示例: course/example.md
-  - 友链: friends/index.md
   - 关于: about/index.md
+  - 友链: friends/index.md
