@@ -1,8 +1,16 @@
-# 友链
+# 友链与常用资源
 
-欢迎交换友链！这里先放两个示例链接占位：
+## 常用学习资源
+
+- [OpenFOAM 官方文档](https://www.openfoam.com/documentation) —— 权威参考手册
+- [CFD Online](https://www.cfd-online.com/) —— 国际 CFD 学习与讨论社区
+- [流体中文网](https://www.cfluid.com/) —— 中文 CFD 论坛
+- [MkDocs Material](https://squidfunk.github.io/mkdocs-material/) —— 本站使用的文档主题
+- [我的 GitHub](https://github.com/Stewie-gyc) —— 代码仓库
+
+## 朋友们的网站（示例）
 
 - [示例友链 1](https://example.com) —— 一句简短的介绍
 - [示例友链 2](https://example.org) —— 一句简短的介绍
 
-（以后把这两个链接替换成你自己的朋友网站即可。）
+（把上面的示例链接替换成真实的朋友网站即可。）

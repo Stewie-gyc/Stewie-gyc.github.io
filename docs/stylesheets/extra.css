@@ -1,0 +1,60 @@
+/* ===== 主页 Hero 区 ===== */
+.hero {
+  text-align: center;
+  padding: 3.2rem 1rem 1.6rem;
+}
+
+.hero .hero-welcome {
+  font-size: 1.05rem;
+  letter-spacing: 0.05em;
+  color: var(--md-primary-fg-color);
+  margin: 0.5rem 0 0.3rem;
+}
+
+.hero .hero-eyebrow {
+  font-size: 0.95rem;
+  letter-spacing: 0.1em;
+  color: var(--md-primary-fg-color);
+  margin: 0;
+}
+
+.hero h1 {
+  font-size: 3rem;
+  font-weight: 700;
+  margin: 0.6rem 0 0.4rem;
+}
+
+.hero .hero-en {
+  font-size: 1.5rem;
+  font-weight: 400;
+  color: var(--md-default-fg-color--light);
+}
+
+.hero .hero-subtitle {
+  font-size: 1.12rem;
+  color: var(--md-default-fg-color--light);
+  margin: 0.2rem 0;
+}
+
+.hero .hero-tags {
+  font-size: 0.95rem;
+  color: var(--md-default-fg-color--light);
+  margin: 1.1rem auto 1.8rem;
+  letter-spacing: 0.02em;
+}
+
+.hero .md-button {
+  margin: 0 0.3rem;
+}
+
+/* ===== 卡片区 ===== */
+.md-typeset .grid.cards > ul > li {
+  border-radius: 0.4rem;
+}
+
+/* 让标题里的英文缩写不被自动大写 */
+.md-typeset h1,
+.md-typeset h2,
+.md-typeset h3 {
+  text-transform: none;
+}
