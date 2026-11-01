@@ -4,7 +4,8 @@
   <p class="hero-subtitle">个人成长 · 生活随笔 · 随手记</p>
   <p class="hero-tags">目标 · 成长 · 生活</p>
   <p>
-    <a class="md-button md-button--primary" href="life/">生活随笔</a>
+    <a class="md-button md-button--primary" href="fitness/">健身记录</a>
+    <a class="md-button" href="life/">生活随笔</a>
     <a class="md-button" href="growth/">成长记录</a>
     <a class="md-button" href="goals/">我的目标</a>
   </p>
@@ -23,5 +24,6 @@
 这里是我的个人空间，用来记录：
 
 - **目标**：想做的事、想学的东西
+- **健身**：按天记录训练和身体反馈，按月看数据变化
 - **进度与复盘**：一步一步走到哪里，回头看看哪些要改进
 - **生活随笔**：不爱发朋友圈，就把日常留在这里

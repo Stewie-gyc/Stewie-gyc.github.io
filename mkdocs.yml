@@ -30,6 +30,12 @@ theme:
   icon:
     repo: fontawesome/brands/github
 
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - attr_list
+  - md_in_html
+
 plugins:
   - search
 
@@ -44,6 +50,12 @@ copyright: © 2026 Stewie
 nav:
   - 主页: index.md
   - 目标: goals/index.md
+  - 健身记录:
+      - 总览: fitness/index.md
+      - 训练计划: fitness/plan.md
+      - 数据曲线: fitness/data.md
+      - 每日记录: fitness/log.md
+      - 记录模板: fitness/template.md
   - 生活记录:
       - 生活随笔: life/index.md
   - 成长记录:
